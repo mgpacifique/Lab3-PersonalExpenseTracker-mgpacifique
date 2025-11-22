@@ -376,7 +376,7 @@ brew install coreutils
 
 ## 👨‍💻 Author
 
-Your Name - GitHub: @yourusername
+Your Name - GitHub: mgpacifique
 
 ## 📄 License
 
